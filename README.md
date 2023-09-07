@@ -1,5 +1,5 @@
 # sdw2023-data-science
-#####Este repositório serve para mostrar a progressão do meu desenvolvimento no Bootcamp de Data Science feito através da parceria entre o Banco Santander e a DIO
+####Este repositório serve para mostrar a progressão do meu desenvolvimento no Bootcamp de Data Science feito através da parceria entre o Banco Santander e a DIO
 
 O objetivo desta análise de dados é prever preços de planos de saúde analisando informaçoes como idade, sexo, IMC, se é ou não fumante, etc.
 ![Despesas com plano de saúde](./src/img/despesas-plano-saude.png)
